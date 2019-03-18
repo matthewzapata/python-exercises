@@ -28,3 +28,18 @@ This repo stores my python exercises. As of right now it contains:
     - vectorized operations
     - array methods
         1. transpose, reshape, mean, std dev, etc.
+
+1. pandas
+    - creating a data frame
+    - examining the data frame
+        1. shape
+        1. data types
+        1. vectorized operations
+    - creating new columns
+    - group by
+    - getting data from SQL databases, JSON files, and CSV files
+
+1. seaborn
+    - different kinds of plots
+    - hue, type, etc.
+    
