@@ -2,3 +2,7 @@ env.py
 .ipynb*
 profiles.json
 __pycache*
+fruits.csv
+student_grades.csv
+mtm_telco_customers_with_monthly.csv
+playground.py
